@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'angular-routing';
+  version = 'Angular version 11.0.0';
 }
